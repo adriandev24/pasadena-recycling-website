@@ -8,7 +8,7 @@ export const business = {
   address: '1306 South Houston Rd, Pasadena, TX 77502',
   directionsHref:
     'https://www.google.com/maps/search/?api=1&query=1306+South+Houston+Rd+Pasadena+TX+77502',
-  hours: 'Monday–Saturday, 8:00 AM–5:30 PM',
+  hours: 'Monday–Friday, 8:00 AM–5:00 PM; Saturday, 8:00 AM–1:00 PM',
   founded: '2010',
 };
 
@@ -25,7 +25,7 @@ export const copy = {
     directions: 'Get directions',
     quick: [
       ['Visit us', '1306 South Houston Rd\nPasadena, TX 77502'],
-      ['Hours', 'Monday–Saturday\n8:00 AM–5:30 PM'],
+      ['Hours', 'Monday–Friday: 8:00 AM–5:00 PM\nSaturday: 8:00 AM–1:00 PM'],
       ['We speak', 'English\nEspañol'],
       ['Questions?', 'Email Pasadena Recycling'],
     ],
@@ -82,7 +82,7 @@ export const copy = {
     directions: 'Cómo llegar',
     quick: [
       ['Visítenos', '1306 South Houston Rd\nPasadena, TX 77502'],
-      ['Horario', 'Lunes–sábado\n8:00 AM–5:30 PM'],
+      ['Horario', 'Lunes–viernes: 8:00 AM–5:00 PM\nSábado: 8:00 AM–1:00 PM'],
       ['Hablamos', 'English\nEspañol'],
       ['¿Preguntas?', 'Email a Pasadena Recycling'],
     ],
